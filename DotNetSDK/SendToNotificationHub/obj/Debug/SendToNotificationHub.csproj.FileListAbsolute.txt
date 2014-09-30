@@ -1,0 +1,44 @@
+c:\users\memoz\documents\visual studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe.config
+c:\users\memoz\documents\visual studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe
+c:\users\memoz\documents\visual studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Debug\SendToNotificationHub.pdb
+c:\users\memoz\documents\visual studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\memoz\documents\visual studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+c:\users\memoz\documents\visual studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\obj\Debug\SendToNotificationHub.csprojResolveAssemblyReference.cache
+c:\users\memoz\documents\visual studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\obj\Debug\SendToNotificationHub.exe
+c:\users\memoz\documents\visual studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\obj\Debug\SendToNotificationHub.pdb
+c:\users\memoz\documents\visual studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\memoz\Documents\Visual Studio 2013\Projects\SendToNotificationHub\SendToNotificationHub\bin\Debug\Microsoft.ServiceBus.pdb
+C:\Users\memoz\Documents\Visual Studio 2013\Projects\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe.config
+C:\Users\memoz\Documents\Visual Studio 2013\Projects\SendToNotificationHub_NewSDK\SendToNotificationHub\obj\Debug\SendToNotificationHub.exe
+C:\Users\memoz\Documents\Visual Studio 2013\Projects\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe
+C:\Users\memoz\Documents\Visual Studio 2013\Projects\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\SendToNotificationHub.pdb
+C:\Users\memoz\Documents\Visual Studio 2013\Projects\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\memoz\Documents\Visual Studio 2013\Projects\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\memoz\Documents\Visual Studio 2013\Projects\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\Microsoft.ServiceBus.pdb
+C:\Users\memoz\Documents\Visual Studio 2013\Projects\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\memoz\Documents\Visual Studio 2013\Projects\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\memoz\Documents\Visual Studio 2013\Projects\SendToNotificationHub_NewSDK\SendToNotificationHub\obj\Debug\SendToNotificationHub.csprojResolveAssemblyReference.cache
+C:\Users\memoz\Documents\Visual Studio 2013\Projects\SendToNotificationHub_NewSDK\SendToNotificationHub\obj\Debug\SendToNotificationHub.pdb
+C:\Users\memoz\Desktop\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe.config
+C:\Users\memoz\Desktop\SendToNotificationHub_NewSDK\SendToNotificationHub\obj\Debug\SendToNotificationHub.exe
+C:\Users\memoz\Desktop\SendToNotificationHub_NewSDK\SendToNotificationHub\obj\Debug\SendToNotificationHub.pdb
+C:\Users\memoz\Desktop\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe
+C:\Users\memoz\Desktop\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\SendToNotificationHub.pdb
+C:\Users\memoz\Desktop\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\memoz\Desktop\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\memoz\Desktop\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\Microsoft.ServiceBus.pdb
+C:\Users\memoz\Desktop\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\memoz\Desktop\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\memoz\Desktop\SendToNotificationHub_NewSDK\SendToNotificationHub\obj\Debug\SendToNotificationHub.csprojResolveAssemblyReference.cache
+C:\Users\memoz\Desktop\Baidu Work\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe.config
+C:\Users\memoz\Desktop\Baidu Work\SendToNotificationHub_NewSDK\SendToNotificationHub\obj\Debug\SendToNotificationHub.exe
+C:\Users\memoz\Desktop\Baidu Work\SendToNotificationHub_NewSDK\SendToNotificationHub\obj\Debug\SendToNotificationHub.pdb
+C:\Users\memoz\Desktop\Baidu Work\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe
+C:\Users\memoz\Desktop\Baidu Work\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\SendToNotificationHub.pdb
+C:\Users\memoz\Desktop\Baidu Work\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\memoz\Desktop\Baidu Work\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\memoz\Desktop\Baidu Work\SendToNotificationHub_NewSDK\SendToNotificationHub\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\memoz\Desktop\Baidu Work\SendToNotificationHub_NewSDK\SendToNotificationHub\obj\Debug\SendToNotificationHub.csprojResolveAssemblyReference.cache
+C:\Users\memoz\Documents\GitHub\NotificationHubSampleApps\DotNetSDK\SendToNotificationHub\bin\Debug\SendToNotificationHub.exe.config
+C:\Users\memoz\Documents\GitHub\NotificationHubSampleApps\DotNetSDK\SendToNotificationHub\obj\Debug\SendToNotificationHub.exe
+C:\Users\memoz\Documents\GitHub\NotificationHubSampleApps\DotNetSDK\SendToNotificationHub\obj\Debug\SendToNotificationHub.pdb
